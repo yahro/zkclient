@@ -4,3 +4,6 @@
 .settings
 build-eclipse
 build
+/target
+/build
+/bin
